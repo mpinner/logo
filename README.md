@@ -3,7 +3,7 @@ logo
 
 these are the different ways i render my logo.
 
-here is [markdown][https://en.wikipedia.org/wiki/Markdown]
+here is [markdown](https://en.wikipedia.org/wiki/Markdown)
 
 --
 
